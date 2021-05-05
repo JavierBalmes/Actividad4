@@ -175,7 +175,7 @@ public class Actividad4 {
             precio = ((contador - 5) * 3) + 10;
         }
         return "Numero de palabras: " + contador + "\n" + "Son $" + precio;
-        return "Numero de palabras: " + contador + "\n" + "Son $" + precio + pesos;
+      
     }
     
     /*
